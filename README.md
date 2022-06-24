@@ -1,1 +1,2 @@
-# Text-translation
+Text Translation with Python and Googletrans
+
